@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "869407163316",
+    "firebase_url": "https://kuraps-default-rtdb.firebaseio.com",
+    "project_id": "kuraps",
+    "storage_bucket": "kuraps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869407163316:android:d0ffa32e98dafb54c7a8e1",
+        "android_client_info": {
+          "package_name": "com.tcodng.kuraps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869407163316-8po4cm5pqkbr01f4sea0uonds41l4muk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsHgWtpvSfqcwE0uayGUNHb5_m9pD79yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869407163316-8po4cm5pqkbr01f4sea0uonds41l4muk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
